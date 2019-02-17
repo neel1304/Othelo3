@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "114361052789",
+    "firebase_url": "https://othelo-3c6f9.firebaseio.com",
+    "project_id": "othelo-3c6f9",
+    "storage_bucket": "othelo-3c6f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114361052789:android:7e38415ce34c6ca4",
+        "android_client_info": {
+          "package_name": "in.othelo.othelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114361052789-th0dit6067j2g8cp093b76ittu9pv06j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.othelo.othelo",
+            "certificate_hash": "6aea21cd309ebd7d13abb28316669446ba9ca03e"
+          }
+        },
+        {
+          "client_id": "114361052789-b3dr6pp0kk7o3qtk3ntqke6m2hsingd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIfdPZESzS4NdZzCc1UDDs25mezg_nK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114361052789-b3dr6pp0kk7o3qtk3ntqke6m2hsingd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
